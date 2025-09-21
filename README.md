@@ -2,22 +2,40 @@
 
 <div align="center">
 
-# 🙏 الحمد لله  
-![ذكر الله](https://readme-typing-svg.herokuapp.com?font=Amiri&size=35&duration=4000&color=00A36C&center=true&vCenter=true&width=650&lines=سبحان+الله;الحمد+لله;لا+إله+إلا+الله;الله+أكبر;لا+حول+ولا+قوة+إلا+بالله;سبحان+الله+وبحمده;سبحان+الله+العظيم)
+# 
+![Bismillah](https://readme-typing-svg.herokuapp.com?font=Amiri&size=38&duration=4000&color=00A36C&center=true&vCenter=true&width=600&lines=بسم+الله+الرحمن+الرحيم)
+
+### ✨ السلام عليكم ورحمة الله وبركاته ✨
 
 ---
 
-# 👋 معاذ بديوي — **Moaaz Bdiwi**
+![ذكر الله](https://readme-typing-svg.herokuapp.com?font=Amiri&size=28&duration=4000&color=008B8B&center=true&vCenter=true&width=600&lines=اللهم+صل+على+محمد+وعلى+آل+محمد;سبحان+الله;الحمد+لله;لا+إله+إلا+الله;الله+أكبر;لا+حول+ولا+قوة+إلا+بالله)
 
-<p style="font-size:22px; font-weight:600; color:#2E8B57; margin:0">
-🧑‍💻 طالب | متعلم برمجة @ <b>Programming Advices</b> (الكورس 11)
-</p>
+---
+<div align="center">
 
-🌱 أستعد لمستقبل مشرق بتعلّم **Dart** والانتقال لاحقًا إلى **Flutter**.  
-💻 أطور **تطبيقات Console** باستخدام **C++** لصقل مهاراتي البرمجية.  
-🐧 أستكشف عالم **GNU/Linux** وخصوصًا **Kali Linux** لتعزيز خبرتي في الأنظمة والأمن السيبراني.  
+# معاذ بديوي | Moaaz Bdiwi 👋
+
+### 💻 C++ Developer | 📱 Dart Learner | 🐧 Linux Enthusiast
+
+🔥 أتعلم **Dart** للتحضير لدخول عالم **Flutter** مستقبلًا.  
+🛠️ أبني **Console Applications** باستخدام **C++** لتقوية مهاراتي البرمجية.  
+🐧 أستكشف **GNU/Linux و Kali Linux** لتوسيع معرفتي في الأنظمة والأمن السيبراني.  
+
+---
+
+<a href="https://www.youtube.com/" target="_blank">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://github.com/Moaaz-git" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/Moaaz-git" target="_blank">
+  <img src="https://img.shields.io/badge/WEBSITE-1DA1F2?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website"/>
+</a>
 
 </div>
+
 
 ---
 

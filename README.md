@@ -2,6 +2,40 @@
 
 <div align="center">
 
+# ✊ لا تنسَ إخوانك في **غزة** و **السودان**
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" width="130" alt="Palestine Flag"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" width="130" alt="Sudan Flag"/>
+</div>
+
+> **اللهم انصر المستضعفين في غزة والسودان وفي كل مكان، وكن لهم عونًا ونصيرًا.**
+
+---
+
+# 🙏 الحمد لله  
+![ذكر الله](https://readme-typing-svg.herokuapp.com?font=Amiri&size=30&duration=4000&color=00A36C&center=true&vCenter=true&width=600&lines=سبحان+الله;الحمد+لله;لا+إله+إلا+الله;الله+أكبر;لا+حول+ولا+قوة+إلا+بالله;سبحان+الله+وبحمده;سبحان+الله+العظيم)
+
+---
+
+# 🇵🇸 Free Palestine | الحرية لفلسطين  
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" width="150" alt="Palestine Flag"/>
+</div>
+
+> **🇵🇸 رسالة دعم لفلسطين بلغات متعددة:**  
+> - **العربية:** الحرية لفلسطين، القدس لنا، والمقاومة شرف.  
+> - **English:** Free Palestine, Jerusalem is ours, resistance is honor.  
+> - **Français:** Liberté pour la Palestine, Jérusalem est à nous, la résistance est un honneur.  
+> - **Español:** Libertad para Palestina, Jerusalén es nuestra, la resistencia es un honor.  
+> - **Türkçe:** Filistin'e özgürlük, Kudüs bizimdir, direniş onurdur.  
+
+> ✊ **Stand with Palestine** | **قف مع فلسطين**
+
+---
+
 # 👋 معاذ بديوي — Moaaz Bdiwi
 
 <p style="font-size:20px; margin:0; font-weight:600">🧑‍💻 Student | Learner @ Programming Advices (Course 11)</p>
@@ -46,7 +80,6 @@
 ---
 
 ## 🚀 اهتماماتي
-- بناء **PCs** وتجميع الحواسيب.  
 - استكشاف أدوات **GNU/Linux**.  
 - تعلم البرمجة من خلال المشاريع العملية.  
 - تجربة أنظمة مختلفة وتحسين الإنتاجية.
@@ -57,8 +90,7 @@
 - 🛠️ أعمل حاليًا على **Console Applications** بـ **C++**.  
 - 📘 أتعلم **Dart** لاحتراف **Flutter** مستقبلًا.  
 - 🐧 أحب أنظمة **Linux** خصوصًا **Kali**.  
-- 💬 اسألني عن **PC Building** أو أي موضوع تقني.  
-- ⚡ معلومة: ضرب رأسك بالحائط لساعة يحرق **150 سعر حراري** 😂.
+- 💬 اسألني عن أي موضوع تقني.  
 
 ---
 

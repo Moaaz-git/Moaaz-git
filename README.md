@@ -1,19 +1,21 @@
-<!-- README.md جاهز لحساب Moaaz-git -->
+<!-- README.md احترافي لحساب Moaaz-git -->
 
 <div align="center">
 
 # 🙏 الحمد لله  
-![ذكر الله](https://readme-typing-svg.herokuapp.com?font=Amiri&size=30&duration=4000&color=00A36C&center=true&vCenter=true&width=600&lines=سبحان+الله;الحمد+لله;لا+إله+إلا+الله;الله+أكبر;لا+حول+ولا+قوة+إلا+بالله;سبحان+الله+وبحمده;سبحان+الله+العظيم)
+![ذكر الله](https://readme-typing-svg.herokuapp.com?font=Amiri&size=35&duration=4000&color=00A36C&center=true&vCenter=true&width=650&lines=سبحان+الله;الحمد+لله;لا+إله+إلا+الله;الله+أكبر;لا+حول+ولا+قوة+إلا+بالله;سبحان+الله+وبحمده;سبحان+الله+العظيم)
 
 ---
 
-# 👋 معاذ بديوي — Moaaz Bdiwi
+# 👋 معاذ بديوي — **Moaaz Bdiwi**
 
-<p style="font-size:20px; margin:0; font-weight:600">🧑‍💻 Student | Learner @ Programming Advices (Course 11)</p>
+<p style="font-size:22px; font-weight:600; color:#2E8B57; margin:0">
+🧑‍💻 طالب | متعلم برمجة @ <b>Programming Advices</b> (الكورس 11)
+</p>
 
-🔥 أتعلم **Dart** للتحضير لدخول عالم **Flutter** مستقبلًا.  
-💻 أبني **Console Applications** باستخدام **C++** لتقوية مهاراتي البرمجية.  
-🐧 أستكشف **GNU/Linux و Kali Linux** لتوسيع معرفتي في الأنظمة والأمن السيبراني.
+🌱 أستعد لمستقبل مشرق بتعلّم **Dart** والانتقال لاحقًا إلى **Flutter**.  
+💻 أطور **تطبيقات Console** باستخدام **C++** لصقل مهاراتي البرمجية.  
+🐧 أستكشف عالم **GNU/Linux** وخصوصًا **Kali Linux** لتعزيز خبرتي في الأنظمة والأمن السيبراني.  
 
 </div>
 
@@ -37,7 +39,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" width="150" alt="Palestine Flag"/>
 </div>
 
-> **🇵🇸 رسالة دعم لفلسطين بلغات متعددة:**  
+> 🌍 **رسالة دعم لفلسطين بعدة لغات:**  
 > - **العربية:** الحرية لفلسطين، القدس لنا، والمقاومة شرف.  
 > - **English:** Free Palestine, Jerusalem is ours, resistance is honor.  
 > - **Français:** Liberté pour la Palestine, Jérusalem est à nous, la résistance est un honneur.  
@@ -49,52 +51,62 @@
 ---
 
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00A36C&center=true&vCenter=true&width=600&lines=Welcome+to+Moaaz+Bdiwi's+Profile!;C%2B%2B+Developer+%7C+Dart+Learner;Linux+Enthusiast)
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 </div>
 
 ---
 
-## 📝 نبذة سريعة
+## 📝 نبذة سريعة عني
+<div align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/master/demo/profile-3d-contrib/profile-night-view.svg" width="100%"/>
+</div>
 
-- ✨ الاسم: **معاذ بديوي (Moaaz Bdiwi)**  
-- 🎓 المنصة التعليمية: **Programming Advices** مع د. **محمد أبو هدهود** — **الكورس 11**.  
-- 🎯 الأنشطة الحالية:  
-  - أتعلم **Dart** للانتقال لاحقًا إلى **Flutter**.  
-  - أبني **تطبيقات Console** باستخدام **C++**.  
-  - أستكشف **GNU/Linux** و **Kali Linux**.  
+<div align="center">
+
+| 💡 معلومة | التفاصيل |
+|-----------|-----------|
+| ✨ الاسم | **معاذ بديوي (Moaaz Bdiwi)** |
+| 🎓 المنصة التعليمية | **Programming Advices** مع د. **محمد أبو هدهود** |
+| 🚀 الأنشطة الحالية | 1️⃣ تعلم **Dart** للانتقال لاحقًا إلى **Flutter** <br> 2️⃣ بناء **Console Apps** باستخدام **C++** <br> 3️⃣ استكشاف **GNU/Linux** و **Kali Linux** |
+
+</div>
+
+> 💭 *"طموحي أن أكون مطورًا محترفًا، وأساهم في بناء مشاريع تقنية ذات قيمة، وأنشر المعرفة للآخرين."*
 
 ---
 
 ## 🛠️ المهارات والأدوات
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-262B33?style=flat&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+
+<div align="center">
+  
+| **اللغات البرمجية** | **تقنيات الويب** | **الأدوات والمنصات** |
+|--------------------|-------------------|-----------------------|
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali-Linux-262B33?style=flat&logo=kali-linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white) |
+
+</div>
 
 ---
 
 ## 🚀 اهتماماتي
-- استكشاف أدوات **GNU/Linux**.  
-- تعلم البرمجة من خلال المشاريع العملية.  
-- تجربة أنظمة مختلفة وتحسين الإنتاجية.
+- 🐧 استكشاف أدوات **GNU/Linux** وتحسين الإنتاجية.  
+- 🛠️ تعلم البرمجة من خلال **مشاريع عملية**.  
+- 🌍 العمل على مشاريع مفتوحة المصدر في المستقبل.  
+- 🔒 التعمق في **الأمن السيبراني**.
 
 ---
 
-## ⚡ بعض الحقائق الممتعة
-- 🛠️ أعمل حاليًا على **Console Applications** بـ **C++**.  
-- 📘 أتعلم **Dart** لاحتراف **Flutter** مستقبلًا.  
-- 🐧 أحب أنظمة **Linux** خصوصًا **Kali**.  
-- 💬 اسألني عن أي موضوع تقني.  
+## ⚡ حقائق ممتعة
+- 🛠️ حاليًا أطور **Console Applications** بـ **C++**.  
+- 📘 أتعلم **Dart** لتطوير تطبيقات **Flutter** مستقبلًا.  
+- 🐧 عاشق لأنظمة **Linux** وخصوصًا **Kali**.  
+- 💬 اسألني عن أي موضوع تقني أو تقنيات مفتوحة المصدر.
 
 ---
 
-## 📊 إحصاءات حسابي على GitHub
+## 📊 إحصاءات GitHub
 <div align="center">
   <a href="https://github.com/Moaaz-git">
     <img src="https://github-readme-stats.vercel.app/api?username=Moaaz-git&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub stats"/>
@@ -104,7 +116,7 @@
 
 ---
 
-## 🐧 رسوم بيانية إضافية
+## 🐧 رسم بياني إضافي
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Moaaz-git&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="70%"/>
 </div>

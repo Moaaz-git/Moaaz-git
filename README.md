@@ -146,9 +146,9 @@
 class About extends Me {
   const myTools = {
     "ProgrammingLanguages" : { "C++", "Dart", "JavaScript", "TypeScript" },
-    "WebTech" : { "HTML", "CSS", "Markdown" },
+    "WebTech" : { "HTML", "CSS" },
     "Platforms" : { "GNU/Linux", "Windows" },
-    "Editors" : { "VSCode", "Sublime", "Neovim" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "GIMP" }
+    "Editors" : { "VSCode", "CursorAI" },
+    "OtherTools" : { "Git", "Figma", "Photoshop" }
   };
 }

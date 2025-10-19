@@ -16,25 +16,10 @@
 
 # معاذ بديوي | Moaaz Bdiwi 👋
 
-### 💻 C++ Developer | 📱 Dart Learner | 🐧 Linux Enthusiast
-
-🔥 أتعلم **Dart** للتحضير لدخول عالم **Flutter** مستقبلًا.  
+### 💻 C++ Developer | 🐧 Linux Enthusiast
+ 
 🛠️ أبني **Console Applications** باستخدام **C++** لتقوية مهاراتي البرمجية.  
 🐧 أستكشف **GNU/Linux و Kali Linux** لتوسيع معرفتي في الأنظمة والأمن السيبراني.  
-
----
-
-<a href="https://www.youtube.com/" target="_blank">
-  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://github.com/Moaaz-git" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/Moaaz-git" target="_blank">
-  <img src="https://img.shields.io/badge/WEBSITE-1DA1F2?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website"/>
-</a>
-
-</div>
 
 
 ---
@@ -88,7 +73,7 @@
 |-----------|-----------|
 | ✨ الاسم | **معاذ بديوي (Moaaz Bdiwi)** |
 | 🎓 المنصة التعليمية | **Programming Advices** مع د. **محمد أبو هدهود** |
-| 🚀 الأنشطة الحالية | 1️⃣ تعلم **Dart** للانتقال لاحقًا إلى **Flutter** <br> 2️⃣ بناء **Console Apps** باستخدام **C++** <br> 3️⃣ استكشاف **GNU/Linux** و **Kali Linux** |
+| 🚀 الأنشطة الحالية | 1️⃣ بناء **Console Apps** باستخدام **C++** <br> 3️⃣ استكشاف **GNU/Linux** و **Kali Linux** |
 
 </div>
 
@@ -117,8 +102,7 @@
 ---
 
 ## ⚡ حقائق ممتعة
-- 🛠️ حاليًا أطور **Console Applications** بـ **C++**.  
-- 📘 أتعلم **Dart** لتطوير تطبيقات **Flutter** مستقبلًا.  
+- 🛠️ حاليًا أطور **Console Applications** بـ **C++**.   
 - 🐧 عاشق لأنظمة **Linux** وخصوصًا **Kali**.  
 - 💬 اسألني عن أي موضوع تقني أو تقنيات مفتوحة المصدر.
 
@@ -145,7 +129,7 @@
 ```dart
 class About extends Me {
   const myTools = {
-    "ProgrammingLanguages" : { "C++", "Dart", "JavaScript", "TypeScript" },
+    "ProgrammingLanguages" : { "C++", "JavaScript", "TypeScript" },
     "WebTech" : { "HTML", "CSS" },
     "Platforms" : { "GNU/Linux", "Windows" },
     "Editors" : { "VSCode", "CursorAI" },

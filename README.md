@@ -16,9 +16,10 @@
 
 # معاذ بديوي | Moaaz Bdiwi 👋
 
-### 💻 C++ Developer | 🐧 Linux Enthusiast
+###  💻 C#.NET Frame work Windowsforms Developer and C++ developer | 🐧 Linux Enthusiast
  
-🛠️ أبني **Console Applications** باستخدام **C++** لتقوية مهاراتي البرمجية.  
+🛠️ أبني **Console Applications** باستخدام **C++** لتقوية مهاراتي البرمجية.
+�️ أبني **Windows Forms App** باستخدام **#NET Framework.C** أيضا. 
 🐧 أستكشف **GNU/Linux و Kali Linux** لتوسيع معرفتي في الأنظمة والأمن السيبراني.  
 
 
@@ -73,7 +74,7 @@
 |-----------|-----------|
 | ✨ الاسم | **معاذ بديوي (Moaaz Bdiwi)** |
 | 🎓 المنصة التعليمية | **Programming Advices** مع د. **محمد أبو هدهود** |
-| 🚀 الأنشطة الحالية | 1️⃣ بناء **Console Apps** باستخدام **C++** <br> 3️⃣ استكشاف **GNU/Linux** و **Kali Linux** |
+| 🚀 الأنشطة الحالية | 1️⃣ بناء **Windows Forms Apps** باستخدام ** C# .Net Framework** <br> 3️⃣ استكشاف **GNU/Linux** و **Kali Linux** |
 
 </div>
 
@@ -102,7 +103,8 @@
 ---
 
 ## ⚡ حقائق ممتعة
-- 🛠️ حاليًا أطور **Console Applications** بـ **C++**.   
+- 🛠️برمجت سابقا **Console Applications** بـ **C++**.   
+- 🛠️أبني حاليا **WindowsForms Apps** بـ **.#NET Framework C**.   
 - 🐧 عاشق لأنظمة **Linux** وخصوصًا **Kali**.  
 - 💬 اسألني عن أي موضوع تقني أو تقنيات مفتوحة المصدر.
 
@@ -129,7 +131,7 @@
 ```dart
 class About extends Me {
   const myTools = {
-    "ProgrammingLanguages" : { "C++", "JavaScript", "TypeScript" },
+    "ProgrammingLanguages" : { "C++", "JavaScript", "TypeScript","C#" },
     "WebTech" : { "HTML", "CSS" },
     "Platforms" : { "GNU/Linux", "Windows" },
     "Editors" : { "VSCode", "CursorAI" },
